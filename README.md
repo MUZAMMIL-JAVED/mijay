@@ -203,10 +203,10 @@
 
 ---
 
-### 📺 Check Out My Work
-
-- <a href="https://lucky-pika-c12d6d.netlify.app/" target="_blank" rel="noopener noreferrer">Portfolio Website</a>
-
+<h3>📺 Check Out My Work</h3>
+<ul>
+  <li><a href="https://lucky-pika-c12d6d.netlify.app/" target="_blank" rel="noopener noreferrer">Portfolio Website</a></li>
+</ul>
 
 
 ---
