@@ -95,18 +95,17 @@
         <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="50" height="50"/><br><b>Kotlin</b>
       </a>
     </td>
-    <!-- Dart -->
+    <!-- Dart 
     <td align="center">
       <a href="https://dart.dev/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="50" height="50"/><br><b>Dart</b>
       </a>
     </td>
-    <!-- Flutter -->
     <td align="center">
       <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50" height="50"/><br><b>Flutter</b>
       </a>
-    </td>
+    </td>  -->
     <!-- Firebase -->
     <td align="center">
       <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
