@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MUZAMMIL JAVED</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<h3 align="center">Passionate Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23F7D15A&size=22&center=true&vCenter=true&lines=Android+Developer;Java+%7C+Kotlin+%7C+XML+%7C+%7C+Android+SDK;Open+to+Collaborate" />
