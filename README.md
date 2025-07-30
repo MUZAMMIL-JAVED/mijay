@@ -6,7 +6,7 @@
 </p>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=gmddev074&label=Profile%20views&color=0e75b6&style=flat" alt="gmddev074" />
+  <img src="https://komarev.com/ghpvc/?username=MUZAMMIL-JAVED&label=Profile%20views&color=0e75b6&style=flat" alt="MUZAMMIL-JAVED" />
 </p>
 
 ---
@@ -29,7 +29,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gmddev074&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MUZAMMIL-JAVED&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
 </p>  
 
 ---
@@ -37,7 +37,7 @@
 ### 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=@MUZAMMIL-JAVED&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=MUZAMMIL-JAVED&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophy" />
   </a>
 </p>
 
@@ -45,7 +45,7 @@
 
 ### 🔥 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=@MUZAMMIL-JAVED&theme=tokyo-night&bg_color=000000&color=FFFFFF&line=FFA500&point=FFFFFF" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUZAMMIL-JAVED&theme=tokyo-night&bg_color=000000&color=FFFFFF&line=FFA500&point=FFFFFF" alt="Contribution Graph" />
 </p>
 
 ---
@@ -121,7 +121,7 @@
   <a href="mailto:muzammiljavedd@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/gmddev074">
+  <a href="https://github.com/MUZAMMIL-JAVED">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -129,4 +129,4 @@
 ---
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/GmdDev074"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="GmdDev074" /></a><a href="https://ko-fi.com/GmdDev074"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="GmdDev074" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/MUZAMMIL-JAVED"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MUZAMMIL-JAVED" /></a><a href="https://ko-fi.com/MUZAMMIL-JAVED"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="MUZAMMIL-JAVED" /></a></p><br><br>
