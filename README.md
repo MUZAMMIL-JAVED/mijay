@@ -13,11 +13,19 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **Dagger, JetPack, KMP, Flutter, Dart**
+- 🌱 I’m currently learning:  
+  **Advanced Android (Jetpack Compose, Hilt, WorkManager), Flutter Web & Desktop, Python (FastAPI, LangChain, Web Scraping), AI & LLMs (Hugging Face, OpenAI APIs, RAG Pipelines), Full-Stack Web Dev (Next.js, Tailwind, MongoDB, Docker)**
+
 - ✅ What I have done: **Java frameworks, API development, Postman, Android SDK & NDK, Kotlin, Ad Mob**
-- 👯 I’m looking to collaborate on **Mobile development, Web development**
-- 👨‍💻 All of my projects are available on **[MUZAMMIL JAVED's GitHub](https://github.com/gmddev074)**
-- 💬 Ask me about **Mobile Development, Java, Kotlin, Web Development, AI Development, API Development, Databases, Postman**
+- 👯 I’m looking to collaborate on **Mobile development, Web development, AI Development**
+- 💬 Ask me about:  
+  **Android Development (Java, Kotlin, Jetpack Compose, Room, Retrofit, Hilt)**  
+  **Flutter (Mobile & Web), Dart**  
+  **Python (FastAPI, Flask, Web Scraping, Automation)**  
+  **AI/ML (LangChain, Hugging Face, LLMs, ChatGPT, OpenAI API)**  
+  **API Development & Integration (REST, Postman, JWT, OAuth)**  
+  **Full-Stack Web Development (Next.js, Tailwind, MongoDB, Firebase, Docker)**  
+  **Firebase, Git, GitHub, SQLite, Figma**
 - 📫 How to reach me: **muzammiljavedd@gmail.com**
 
 ---
