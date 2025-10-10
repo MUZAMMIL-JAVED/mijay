@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm MUZAMMIL JAVED</h1>
-<h3 align="center">Passionate Full Stack Developer</h3>
+<h3 align="center">Passionate MERN Stack Developer | Open to Opportunities 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23F7D15A&size=22&center=true&vCenter=true&lines=Full+Stack+Developer;Java+%7C+Kotlin+%7C+XML+%7C+%7C+Android+SDK;Open+to+Collaborate" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23F7D15A&size=22&center=true&vCenter=true&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Open+to+Work+and+Collaborate" />
 </p>
 
 <p align="center"> 
@@ -12,36 +12,44 @@
 ---
 
 ### 🌱 Currently Learning
-- 🧠 **AI & LLMs**: OpenAI API, LangChain, Hugging Face, 
-- 📱 **Advanced Android**: Jetpack Compose, Hilt, WorkManager  
-- 🐍 **Python**: FastAPI, Web Scraping, Automation  
-- 🌐 **Full-Stack Web**: Next.js, Tailwind CSS, MongoDB, Docker  
+- ⚛️ **Next.js** for server-side rendering & performance optimization  
+- ☁️ **Cloud Deployment** with AWS, Render, and Vercel  
+- 🧠 **AI & LLMs Integration** using OpenAI API and LangChain  
+- 🧰 **DevOps & CI/CD** with Docker and GitHub Actions  
+
+---
+
+### 💼 Experience
+- 👨‍💻 **1 Year of Experience** as a **MERN Stack Developer**  
+- 🧩 Built dynamic, responsive web apps using **React**, **Node.js**, and **Express**  
+- 🗄️ Integrated **MongoDB** for scalable backend storage  
+- 🔐 Implemented **JWT Authentication** and **Role-Based Access**  
+- 🧠 Experienced in **API Integration**, **UI/UX Design**, and **Real-Time Apps (Socket.io)**  
 
 ---
 
 ### ✅ What I’ve Worked On
-- Android apps with **Java**, **Kotlin**, Jetpack libraries  
-- API development using **REST**, **Postman**, **JWT/OAuth**  
-- Ad monetization using **Google AdMob**  
-- Building full-stack solutions with **Firebase**, **Node.js**, and **MongoDB**  
-- UI/UX design integration with **Figma**  
+- Full-stack web applications using **React.js**, **Express**, **Node.js**, **MongoDB**  
+- Authentication & Authorization using **JWT**, **OAuth2.0**, and **Firebase Auth**  
+- RESTful API development and third-party API integration  
+- Responsive frontends using **Tailwind CSS** and **Bootstrap**  
+- Deployed apps on **Vercel**, **Netlify**, and **Render**  
 
 ---
 
 ### 🤝 Open to Collaborate On
-- 📱 Mobile App Development (Android, Flutter)  
-- 🌍 Web Development (Frontend & Backend)  
-- 🤖 AI & LLM Integrations (Chatbots, Automation Tools)
+- 💻 MERN Stack Projects (Web Apps, Dashboards, Portfolios)  
+- 🤖 AI-Integrated Web Apps (Chatbots, Automation Tools)  
+- 🧠 Open Source Projects in Full-Stack Development  
 
 ---
 
 ### 💬 Ask Me About
-- Android Dev: Java, Kotlin, Jetpack Compose, Room, Hilt  
-- Python: FastAPI, Flask, Automation, Scraping  
-- AI/ML: OpenAI, LangChain, Hugging Face, ChatGPT  
-- API Integration: REST, JWT, OAuth, Postman  
-- Full-Stack: Next.js, Tailwind, MongoDB, Firebase, Docker  
-- Tools: Git, GitHub, SQLite, Firebase, Figma  
+- Frontend: React.js, Next.js, Tailwind CSS, Bootstrap  
+- Backend: Node.js, Express.js, REST APIs, JWT Auth  
+- Database: MongoDB, Mongoose, Firebase  
+- Tools: Git, GitHub, Postman, VS Code, Docker  
+- Hosting: Vercel, Netlify, Render, Firebase  
 
 ---
 
@@ -49,7 +57,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MUZAMMIL-JAVED&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MUZAMMIL-JAVED&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
@@ -77,83 +84,10 @@
 
 <table align="center">
   <tr>
-    <!-- Android -->
+    <!-- React -->
     <td align="center">
-      <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50" height="50"/><br><b>Android</b>
-      </a>
-    </td>
-    <!-- Java -->
-    <td align="center">
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/><br><b>Java</b>
-      </a>
-    </td>
-    <!-- Kotlin -->
-    <td align="center">
-      <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="50" height="50"/><br><b>Kotlin</b>
-      </a>
-    </td>
-    <!-- Dart 
-    <td align="center">
-      <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="50" height="50"/><br><b>Dart</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50" height="50"/><br><b>Flutter</b>
-      </a>
-    </td>  -->
-    <!-- Firebase -->
-    <td align="center">
-      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/><br><b>Firebase</b>
-      </a>
-    </td>
-    <!-- SQLite -->
-    <td align="center">
-      <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="50" height="50"/><br><b>SQLite</b>
-      </a>
-    </td>
-    <!-- Postman -->
-    <td align="center">
-      <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/><br><b>Postman</b>
-      </a>
-    </td>
-    <!-- Git -->
-    <td align="center">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/><br><b>Git</b>
-      </a>
-    </td>
-    <!-- GitHub -->
-    <td align="center">
-      <a href="https://github.com/gmddev074" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/><br><b>GitHub</b>
-      </a>
-    </td>
-    <!-- Figma -->
-    <td align="center">
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/><br><b>Figma</b>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <!-- Python -->
-    <td align="center">
-      <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/><br><b>Python</b>
-      </a>
-    </td>
-    <!-- FastAPI -->
-    <td align="center">
-      <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-        <img src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="FastAPI" width="50" height="50"/><br><b>FastAPI</b>
+      <a href="https://react.dev/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/><br><b>React</b>
       </a>
     </td>
     <!-- Next.js -->
@@ -162,10 +96,16 @@
         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="50" height="50"/><br><b>Next.js</b>
       </a>
     </td>
-    <!-- Tailwind CSS -->
+    <!-- Node.js -->
     <td align="center">
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="50" height="50"/><br><b>Tailwind</b>
+      <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/><br><b>Node.js</b>
+      </a>
+    </td>
+    <!-- Express.js -->
+    <td align="center">
+      <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50"/><br><b>Express</b>
       </a>
     </td>
     <!-- MongoDB -->
@@ -174,38 +114,32 @@
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="50" height="50"/><br><b>MongoDB</b>
       </a>
     </td>
-    <!-- Docker -->
+    <!-- Tailwind CSS -->
     <td align="center">
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="50" height="50"/><br><b>Docker</b>
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="50" height="50"/><br><b>Tailwind CSS</b>
       </a>
     </td>
-    <!-- OpenAI -->
-    <!--<td align="center">
-      <a href="https://platform.openai.com/" target="_blank" rel="noreferrer">
-        <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" alt="OpenAI" width="50" height="50"/><br><b>OpenAI</b>
-      </a>
-    </td> -->
-    <!-- Hugging Face -->
+    <!-- JavaScript -->
     <td align="center">
-      <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-        <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="50" height="50"/><br><b>HuggingFace</b>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/><br><b>JavaScript</b>
       </a>
     </td>
-    <!-- LangChain -->
+    <!-- Git -->
     <td align="center">
-      <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-        <img src="https://avatars.githubusercontent.com/u/139469282?s=200&v=4" alt="LangChain" width="50" height="50"/><br><b>LangChain</b>
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/><br><b>Git</b>
+      </a>
+    </td>
+    <!-- Postman -->
+    <td align="center">
+      <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/><br><b>Postman</b>
       </a>
     </td>
   </tr>
 </table>
-
-<!------
-
-### 📺 Check Out My Work
-
- <a href="https://muzammil-javed-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">Portfolio</a> -->
 
 ---
 
@@ -217,9 +151,19 @@
   <a href="https://github.com/MUZAMMIL-JAVED">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.linkedin.com/in/muzammil-javed/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/MUZAMMIL-JAVED"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MUZAMMIL-JAVED" /></a><a href="https://ko-fi.com/MUZAMMIL-JAVED"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="MUZAMMIL-JAVED" /></a></p><br><br>
+<p>
+  <a href="https://www.buymeacoffee.com/MUZAMMIL-JAVED"> 
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MUZAMMIL-JAVED" />
+  </a>
+  <a href="https://ko-fi.com/MUZAMMIL-JAVED"> 
+    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="MUZAMMIL-JAVED" />
+  </a>
+</p><br><br>  
