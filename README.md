@@ -201,11 +201,11 @@
   </tr>
 </table>
 
----
+<!------
 
 ### 📺 Check Out My Work
 
-- <a href="https://muzammil-javed-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">Portfolio</a>
+ <a href="https://muzammil-javed-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">Portfolio</a> -->
 
 ---
 
