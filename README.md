@@ -5,9 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23F7D15A&size=22&center=true&vCenter=true&lines=Software+Engineer+%7C+AI+%26+Automation;React.js+%7C+MongoDB;Open+to+Work+and+Collaborate" />
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=MUZAMMIL-JAVED&label=Profile%20views&color=0e75b6&style=flat" alt="MUZAMMIL-JAVED" />
-</p>
 
 ---
 
