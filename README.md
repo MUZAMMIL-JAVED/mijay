@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MUZAMMIL JAVED</h1>
-<h3 align="center">Passionate MERN Stack Developer | Open to Opportunities 🚀</h3>
+<h3 align="center">Passionate Software Engineer | AI & Automation Learner | Open to Opportunities 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23F7D15A&size=22&center=true&vCenter=true&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Open+to+Work+and+Collaborate" />
@@ -14,7 +14,7 @@
 ### 🌱 Currently Learning
 - ⚛️ **Next.js** for server-side rendering & performance optimization  
 - ☁️ **Cloud Deployment** with AWS, Render, and Vercel  
-- 🧠 **AI & LLMs Integration** using OpenAI API and LangChain  
+- 🧠 **AI, LLMs & Automation Integration, Machine Learning** using OpenAI API and LangChain  
 - 🧰 **DevOps & CI/CD** with Docker and GitHub Actions  
 
 ---
@@ -29,11 +29,21 @@
 ---
 
 ### ✅ What I’ve Worked On
-- Full-stack web applications using **React.js**, **Express**, **Node.js**, **MongoDB**  
-- Authentication & Authorization using **JWT**, **OAuth2.0**, and **Firebase Auth**  
-- RESTful API development and third-party API integration  
-- Responsive frontends using **Tailwind CSS** and **Bootstrap**  
-- Deployed apps on **Vercel**, **Netlify**, and **Render**  
+- 💻 Full-Stack & Web Development (1.5 Years Experience)
+🏗️ Developed dynamic, responsive web apps using React, Node.js, and Express.
+🗄️ Integrated MongoDB for scalable backend storage, including complex data modeling.
+🔐 Implemented JWT Authentication and Role-Based Access Control (RBAC) for secure applications.
+🧠 Experienced in API Integration, modern UI/UX Design principles, and building Real-Time Apps.
+
+- 📱 Mobile Development (1.5 Years Experience)
+🤖 Developed and maintained native Android applications, focusing on performance and user experience.
+🔗 Proficient in API Integration patterns for seamless data exchange.
+
+🧠 AI & Automation Engineering Focus (Current Role)
+⚙️ Designing and implementing intelligent automation solutions to streamline complex operational workflows.
+🤖 Developing, training, and deploying Machine Learning (ML) models for tasks such as predictive analytics and automated decision support.
+🔗 Integrating AI services via robust APIs into existing enterprise software and applications.
+🛠️ Creating custom automation scripts and tools to bridge data gaps and reduce manual intervention across systems.
 
 ---
 
@@ -45,8 +55,8 @@
 ---
 
 ### 💬 Ask Me About
-- Frontend: React.js, Next.js, Tailwind CSS, Bootstrap  
-- Backend: Node.js, Express.js, REST APIs, JWT Auth  
+- Frontend: React.js, Tailwind CSS, Bootstrap  
+- Backend: Node.js, REST APIs, JWT Auth  
 - Database: MongoDB, Mongoose, Firebase  
 - Tools: Git, GitHub, Postman, VS Code, Docker  
 - Hosting: Vercel, Netlify, Render, Firebase  
