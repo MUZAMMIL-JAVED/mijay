@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Software Engineer | AI & Automation Learner | Open to Opportunities 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23F7D15A&size=22&center=true&vCenter=true&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Open+to+Work+and+Collaborate" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23F7D15A&size=22&center=true&vCenter=true&lines=Software+Engineer+%7C+AI+%26+Automation;React.js+%7C+MongoDB;Open+to+Work+and+Collaborate" />
 </p>
 
 <p align="center"> 
