@@ -54,8 +54,8 @@
 ### 💬 Ask Me About
 - Frontend: React.js, Tailwind CSS, Bootstrap  
 - Backend: Node.js, REST APIs, JWT Auth  
-- Database: MongoDB, Mongoose, Firebase  
-- Tools: Git, GitHub, Postman, VS Code, Docker  
+- Database: MongoDB, Mongoose, Firebase, Supabase, Airtable, Appwrite
+- Tools: Git, GitHub, Postman, VS Code, Docker, Android Studio, n8n & Dify.  
 - Hosting: Vercel, Netlify, Render, Firebase  
 
 ---
