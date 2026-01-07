@@ -77,7 +77,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=MUZAMMIL-JAVED&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophy" />
   </a>
 </p>
-
 ---
 
 ### 🔥 Contribution Graph
